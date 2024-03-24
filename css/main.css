@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+html, body {
+  margin: 0;
+  background: #b2fba5;
+  font-family: 'Fira Code';
+}
+
+#container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+#main {
+  background: whitesmoke;
+  border: 5px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 50px;
+  width: 40vw;
+}
+
+hr {
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.flag {
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.bleu {
+  background-color: blue;
+}
+
+.blanc {
+  background-color: white;
+}
+
+.rouge {
+  background-color: red;
+}
